@@ -1,0 +1,11 @@
+body{
+    
+}
+
+.copy_right_footer{
+    background-color: cyan;
+    color: red;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+}
